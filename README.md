@@ -39,7 +39,7 @@ currentLine(katzDeliLine); // "The line is currently: 1. Grace, 2. Kent"
 
 takeANumber(katzDeliLine, "Matz"); // "3"
 
-currentLine(katzDeliLine); // "The line is currently: 1. Grace, 2. Kent, 3. Matz"
+currentLine(katzDeliLine); // "The line is currently: 1. Grace, 2. Kent, 3. Matz"gg
 
 nowServing(katzDeliLine); // "Currently serving Grace."
 
